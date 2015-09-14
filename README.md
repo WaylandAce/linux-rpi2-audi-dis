@@ -1,7 +1,9 @@
-linux-rpi-audi-dis
+linux-rpi2-audi-dis
 ==================
 
-Linux kernel module for sending data to the DIS LCD in an Audi car from a Raspberry Pi.
+This is a fork from [https://github.com/derpston/linux-rpi-audi-dis](https://github.com/derpston/linux-rpi-audi-dis) modified for Raspberry Pi 2.
+
+Linux kernel module for sending data to the DIS LCD in an Audi car from a Raspberry Pi 2.
 
 This module is specific to the Raspberry Pi because it uses the GPIO pins.
 
